@@ -6,17 +6,18 @@
 ## Description
 For our Introduction to Microcontrollers course final project, [Evan Varga](https://www.linkedin.com/in/evan-varga-2a21aa221/) and I embarked on integrating a WidowX Robotic Arm controlled with an Arbotix - M Arduino, a robocontroller, with a HIWONDER Bionic hand controlled by a Tiva C Series TM4C123G microcontroller to perform various hand and arm gestures, play a game and play an instrument. 
 
-Through the microcontroller's Universal Asynchronous Receiver-Transmitter module, commands can be sent to the microcontroller to cause the fingers of the HIWODER bionic hand to move into certain positions through pulse-width modulations. These commands cause digital signals to be sent through parallel communication to the Arbotix -M robotcontroller. These signals make the WidowX arm move into certain position or perform sequences of positions. All these working together lead to creative gestures and actions being performed.
+Through the microcontroller's Universal Asynchronous Receiver-Transmitter module, commands can be sent to the microcontroller to cause the fingers of the HIWOnDER bionic hand to move into certain positions through pulse-width modulations. These commands cause digital signals to be sent through parallel communication to the Arbotix -M robotcontroller. These signals make the WidowX arm move into certain position or perform sequences of positions. All these working together lead to creative gestures and actions being performed.
 
 
 ## Built With
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-
 ## Installation
-There are three different folders containing the projects for the iOS version and Android version of the app respectively.
+There are 2 different folders containing the two major pieces of the project..
 - Ios application: Run the Swift project contained in ```Ios_app/```
 - Android application: Run the Kotlin project contained in ```Android_app/src```
 - Web application: Run the project contained in ```Web_app/```
