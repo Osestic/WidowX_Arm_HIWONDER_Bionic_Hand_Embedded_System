@@ -1,6 +1,7 @@
-<h2> WidowX_Arm_HIWONDER_Bionic_Hand-Interface </h2>
-
 <div align ="center">
+# WidowX_Arm_HIWONDER_Bionic_Hand-Interface </h2>
+
+
 <img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/25f37eee-65a8-4e1e-a7c2-306f3ad84e96" width="300"/>
 </div>
 
@@ -117,3 +118,5 @@ This project is licensed under the “Commons Clause” License Condition v1.0. 
 - Adapt the same layout and UI/UX to both the iOS and Android Application
 - Allow other persons to use the apps and give feedback
 - Act on the feedback accordingly
+
+</div>
