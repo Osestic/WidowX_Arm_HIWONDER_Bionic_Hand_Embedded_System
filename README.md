@@ -6,7 +6,7 @@
 ## Description
 For our Introduction to Microcontrollers course final project, [Evan Varga](https://www.linkedin.com/in/evan-varga-2a21aa221/) and I embarked on integrating a WidowX Robotic Arm controlled with an Arbotix - M Arduino, a robocontroller, with a HIWONDER Bionic hand controlled by a Tiva C Series TM4C123G microcontroller to perform various hand and arm gestures, play a game and play an instrument. 
 
-Through the microcontroller's Universal Asynchronous Receiver-Transmitter module, commands can be sent to the microcontroller to cause the fingers of the HIWOnDER bionic hand to move into certain positions through pulse-width modulations. These commands cause digital signals to be sent through parallel communication to the Arbotix -M robotcontroller. These signals make the WidowX arm move into certain position or perform sequences of positions. All these working together lead to creative gestures and actions being performed.
+Through the microcontroller's Universal Asynchronous Receiver-Transmitter (UART) module, commands can be sent to the microcontroller to cause the fingers of the HIWOnDER bionic hand to move into certain positions through pulse-width modulations. These commands cause digital signals to be sent through parallel communication to the Arbotix -M robotcontroller. These signals make the WidowX arm move into certain position or perform sequences of positions. All these working together lead to creative gestures and actions being performed.
 
 
 ## Built With
@@ -23,16 +23,7 @@ There are 2 different folders containing the two major pieces of the project:
 - [Robocontroller_Arm](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/tree/main/Robocontroller_Arm)/
 
 
-These applications have to be connected to the AI API for the application. They are currently connected to our own Python API. 
-
-To create yours: 
-- Place the ```start_api.py```, ```MiDOK_Python_AI_API.py``` and the ```requirements.txt``` in your own
-GitHub repository
-- Connect the repository to a free API hosting site like [https://render.com/], which is what we used
-- Replace the link to our API in both the Swift and Kotlin code with your API link provided by the hosting
-- Create an OpenAI account and generate an API key for you to use for the Python API
-- Ensure you use environment variables to prevent your key from being exposed
-
+As the names imply, the former folder contains the code that programs the microcontroller and the UART that sends commands to the robocontroller using C, and the latter contains the code that programs the robocontroller using C++ and python. 
 
 ## Usage
 Run the applications and provide any relevant information as you click through the app and interact with it.
