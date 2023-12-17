@@ -1,8 +1,6 @@
 //
-// Project_1_Prosthetic Arm
 // Evan Varga & Oriekaose Agholor
 //
-// In this Lab, we will utilize the UART and SPI.
 // The UART is available over USB debug virtual serial port on the evaluation board)
 // will be configured for 115,200 baud, 8-n-1 mode.
 // All characters received on the UART are transmitted back to the UART and the SPI.
