@@ -1,9 +1,7 @@
-<div align ="center">
 # WidowX_Arm_HIWONDER_Bionic_Hand-Interface </h2>
 
 
 <img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/25f37eee-65a8-4e1e-a7c2-306f3ad84e96" width="300"/>
-</div>
 
 Evan Varga and I embarked on integrating a WidowX Robotic Arm controlled by an Arbotix - M Arduino with a robotic hand controlled by a Tiva C Series TM4C123G microcontroller. Through the micrcontroller's Universal Asynchronous Receiver-Transmitter module, commands were sent to the microcontroller to make the hand and arm perform creative gestures and actions.
 
@@ -119,4 +117,3 @@ This project is licensed under the “Commons Clause” License Condition v1.0. 
 - Allow other persons to use the apps and give feedback
 - Act on the feedback accordingly
 
-</div>
