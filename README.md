@@ -3,41 +3,16 @@
 
 <img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/25f37eee-65a8-4e1e-a7c2-306f3ad84e96" width="300"/>
 
-Evan Varga [Evan Varga](https://www.linkedin.com/in/evan-varga-2a21aa221/)) and I embarked on integrating a WidowX Robotic Arm controlled by an Arbotix - M Arduino with a robotic hand controlled by a Tiva C Series TM4C123G microcontroller. Through the micrcontroller's Universal Asynchronous Receiver-Transmitter module, commands were sent to the microcontroller to make the hand and arm perform creative gestures and actions.
-
-
 ## Description
+For our Introduction to Microcontrollers course final project, [Evan Varga](https://www.linkedin.com/in/evan-varga-2a21aa221/) and I embarked on integrating a WidowX Robotic Arm controlled with an Arbotix - M Arduino, a robocontroller, with a HIWONDER Bionic hand controlled by a Tiva C Series TM4C123G microcontroller to perform various hand and arm gestures, play a game and play an instrument. 
 
-In today's healthcare landscape, we're facing unprecedented challenges. 
-The nursing shortage and an alarming rise in professional burnout have put strains on our healthcare system. 
-Our team is proud to present MiDOK, an innovative AI-powered diagnostic co-pilot application designed specifically to support and enhance the capabilities of healthcare professionals and individuals training to join the healthcare field.
-
-MiDOK utilizes a unique AI-prompting mechanism.
-Through a series of button-based selections and checkboxes, healthcare professionals can narrow down a vast spectrum of medical conditions, receiving targeted lists of potential diagnoses. 
-This precision ensures that the suggestions offered are both relevant and accurate.
-
-It's important to understand that MiDOK isn't intended to replace the expertise of our doctors and nurses. 
-Instead, it offers a supplementary tool to aid in the diagnosis process. 
-By presenting an array of potential diagnoses based on the input data, MiDOK gives doctors more information.
-We also understand the importance of accessibility in today's fast-paced world. 
-That's why we've made MiDOK available across various platforms. We have the app for both Apple and Android devices as well as the web, making MiDOK readily available at your fingertips.
-
-Beyond MiDOK’s healthcare application, it also emerges as a tool for individuals training to join the healthcare field. MiDOK simplifies the learning curve of healthcare schooling by offering AI-driven insights into potential diagnoses based on patient symptoms and data. 
-Trainees can compare their assessments with MiDOK's suggestions, facilitating a hands-on learning experience that's informative. By simulating real-world scenarios, MiDOK builds confidence in making decisions. 
-It's not just a tool for current healthcare professionals but it's also ensuring a more informed and prepared next generation of medical experts.
-
-In essence, MiDOK represents a harmonious fusion of advanced artificial intelligence technology and medical expertise.
-By bridging the gap between these two worlds, we aim to provide a solution that ensures every patient receives timely, accurate, and efficient care, even in the face of the ongoing challenges in our healthcare system.
+Through the microcontroller's Universal Asynchronous Receiver-Transmitter module, commands can be sent to the microcontroller to cause the fingers of the HIWODER bionic hand to move into certain positions through pulse-width modulations. These commands cause digital signals to be sent through parallel communication to the Arbotix -M robotcontroller. These signals make the WidowX arm move into certain position or perform sequences of positions. All these working together lead to creative gestures and actions being performed.
 
 
 ## Built With
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 ## Installation
