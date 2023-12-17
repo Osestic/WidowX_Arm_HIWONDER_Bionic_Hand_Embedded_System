@@ -18,7 +18,7 @@ Through the microcontroller's Universal Asynchronous Receiver-Transmitter module
 
 ## Installation
 There are 2 different folders containing the two major pieces of the project..
-- Ios application: Run the Swift project contained in ```[Microcontroller_Hand](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/tree/main/Microcontroller_Hand)/```
+- Ios application: Run the Swift project contained in [Microcontroller_Hand](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/tree/main/Microcontroller_Hand)/
 - Android application: Run the Kotlin project contained in ```Android_app/src```
 - Web application: Run the project contained in ```Web_app/```
 
