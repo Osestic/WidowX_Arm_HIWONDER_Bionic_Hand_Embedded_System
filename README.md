@@ -51,7 +51,7 @@ To run the current capabilities of the WidowX_Arm_HIWONDER_Bionic_Hand-Interface
 2. Run the ```main.ino```.
 3. Type in a character that enacts a specific functionality as specificied in the ```main.c``` mentioned.
 
-The following are demos of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface playing a game and performing an instrument. 
+The following are pictures of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface in performing different hand positions.
 
 - Playing the piano is shown below:
 
