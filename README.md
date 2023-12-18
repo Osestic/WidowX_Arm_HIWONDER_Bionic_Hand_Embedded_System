@@ -50,13 +50,18 @@ To run the current capabilities of the WidowX_Arm_HIWONDER_Bionic_Hand-Interface
 1. Run the ```main.c``` of the project in Code Composer studio to install it on the microcontroller.
 2. Run the ```main.ino```.
 3. Type in a character that enacts a specific functionality as specificied in the ```main.c``` mentioned.
-   
-The demo of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface playing the piano is shown below:
 
+The following are demos of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface playing a game and performing an instrument. 
+
+- Playing the piano is shown below:
+
+[![IMAGE ALT TEXT HERE](https://img.youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDxE/0.jpg)](https://youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDx)
+
+https://youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDx
 
 https://github.com/Osestic/MiDOK_Co-Pilot_App/assets/42704298/2c5c2102-06ed-4d42-a558-b406b375f8a7
 
-
+https://youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDx
 
 
 
