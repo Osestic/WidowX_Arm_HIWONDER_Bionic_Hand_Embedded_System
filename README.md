@@ -55,6 +55,7 @@ The following are pictures of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface in 
 
 - Playing the piano is shown below:
 
+--put picture screenshitrand link to videi
 [![IMAGE ALT TEXT HERE](https://img.youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDxE/0.jpg)](https://youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDx)
 
 https://youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDx
