@@ -16,10 +16,10 @@ Through the microcontroller's Universal Asynchronous Receiver-Transmitter (UART)
 Arduino.
 
 ### Note:
-1.	The codes to be mentioned below contain the specific pins configured for steps 3 and 4. Your own pins can be configured as well.
+1.	The codes to be mentioned below contain the specific pins configured for steps 3 and 4 above. Your own pins can be configured as well.
 2.	Employ good cable/wire management to ensure proper connections and to easily debug issues which often stem from disconnections. Breadboards are quite useful, and one was used for this project.
 3.	When the motors fault out due to exceeding the limits of their possible positions or as safety measures to protect users, they flash red and are disabled. Unplug the power cord and plug back in to rest them. 
-4.	Unplug the power cord to relax the motors or run ‘’’PyPose.py’’’ , to be mentioned below, 
+4.	Unplug the power cord to relax the motors or run ‘’’PyPose.py’’’ , to be mentioned below.
 
 ## Programmed With
 
@@ -47,8 +47,11 @@ Steps to install the programs:
 
 ## Usage
 To run the current capabilities of the WidowX_Arm_HIWONDER_Bionic_Hand-Interface, do the following:
-1. Run the ```main.c``` of the project in Code Composer studio to install it on the microcontroller
-The iOS application demo:
+1. Run the ```main.c``` of the project in Code Composer studio to install it on the microcontroller.
+2. Run the ```main.ino```.
+3. Type in a character that enacts a specific functionality as specificied in the ```main.c``` mentioned.
+   
+The demo of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface playing the piano is shown below:
 
 
 https://github.com/Osestic/MiDOK_Co-Pilot_App/assets/42704298/2c5c2102-06ed-4d42-a558-b406b375f8a7
