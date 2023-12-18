@@ -25,6 +25,14 @@ There are 2 different folders containing the two major pieces of the project:
 
 As the names imply, the former folder contains the code that programs the microcontroller and the UART that sends commands to the robocontroller using C, and the latter contains the code that programs the robocontroller using C++ and python. 
 
+Steps to install the programs:
+1. Download the project in [Microcontroller_Hand](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/tree/main/Microcontroller_Hand)/ and run it on Code Composer studio to install it on a Tiva C Series TM4C123G microcontroller.
+2. Download the python project in the [Arm_Position_Capture](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/tree/main/Robocontroller_Arm/Arm_Position_Capture)/ folder contained in [Robocontroller_Arm](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/tree/main/Robocontroller_Arm)/ and run it on a Integrated Development Environment (IDE) or text editor that can support Python 2 such as Pycharm.
+3. You may need to install a virtual interpreter for Python 2.
+4. Run ```PyPose.py``` from the folder which will bring up the Arm position software.
+5. Run ```pypose.ino``` on the robocontroller with Arduino 1.8.5 (Do so for all arduino files). This will work with the python software to capture the position of the robot arm by just moving it and pressing the capture button.
+6. Run ```main.ino```, and do so with ```poses.h``` being in its same location. This contains the code that interfaces the robocontroller with the microcontroller. You can create more gestures and include the robot commands in it
+
 ## Usage
 Run the applications and provide any relevant information as you click through the app and interact with it.
 
