@@ -8,8 +8,20 @@ For our Introduction to Microcontrollers course final project, [Evan Varga](http
 
 Through the microcontroller's Universal Asynchronous Receiver-Transmitter (UART) module, commands can be sent to the microcontroller to cause the fingers of the HIWOnDER bionic hand to move into certain positions through pulse-width modulations. These commands cause digital signals to be sent through parallel communication to the Arbotix -M robotcontroller. These signals make the WidowX arm move into certain position or perform sequences of positions. All these working together lead to creative gestures and actions being performed.
 
+## Set up
+1.	Unscrew the plastic claw piece from the from Widowx Arm.
+2.	Screw the HIWONDER BIONIC Hand onto it.
+3.	Connect the pins to be configured as pulse-width modulation pins to hand.
+4.	Connect the pins to be configured for parallel communication to pins on the Arbotix -M 
+Arduino.
 
-## Built With
+# Note:
+1.	The codes to be mentioned below contain the specific pins configured for steps 3 and 4. Your own pins can be configured as well.
+2.	Employ good cable/wire management to ensure proper connections and to easily debug issues which often stem from disconnections. Breadboards are quite useful, and one was used for this project.
+3.	When the motors fault out due to exceeding the limits of their possible positions or as safety measures to protect users, they flash red and are disabled. Unplug the power cord and plug back in to rest them. 
+4.	Unplug the power cord to relax the motors or run ‘’’PyPose.py’’’ , to be mentioned below, 
+
+## Programmed With
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,11 +43,11 @@ Steps to install the programs:
 3. You may need to install a virtual interpreter for Python 2.
 4. Run ```PyPose.py``` from the folder which will bring up the Arm position software.
 5. Run ```pypose.ino``` on the robocontroller with Arduino 1.8.5 (Do so for all arduino files). This will work with the python software to capture the position of the robot arm by just moving it and pressing the capture button.
-6. Run ```main.ino```, and do so with ```poses.h``` being in its same location. This contains the code that interfaces the robocontroller with the microcontroller. You can create more gestures and include the robot commands in it
+6. Run ```main.ino```, and do so with ```poses.h``` being in its same location. This contains the code that interfaces the robocontroller with the microcontroller. You can create more gestures and include the robot commands in it.
 
 ## Usage
-Run the applications and provide any relevant information as you click through the app and interact with it.
-
+To run the current capabilities of the WidowX_Arm_HIWONDER_Bionic_Hand-Interface, do the following:
+1. Run the ```main.c``` of the project in Code Composer studio to install it on the microcontroller
 The iOS application demo:
 
 
