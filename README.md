@@ -1,4 +1,4 @@
-# WidowX_Arm_HIWONDER_Bionic_Hand-Interface </h2>
+![Screenshot 2023-12-18 185523](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/20376c5a-8b07-44d5-b52b-3d32332adce1)![Screenshot 2023-12-18 185523](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/89ec5a66-1764-478e-8740-a4f1652601f4)# WidowX_Arm_HIWONDER_Bionic_Hand-Interface </h2>
 
 
 <img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/25f37eee-65a8-4e1e-a7c2-306f3ad84e96" width="300"/>
@@ -51,53 +51,25 @@ To run the current capabilities of the WidowX_Arm_HIWONDER_Bionic_Hand-Interface
 2. Run the ```main.ino```.
 3. Type in a character that enacts a specific functionality as specificied in the ```main.c``` mentioned.
 
-The following are pictures of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface in performing different hand positions.
+The following are pictures of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface in performing different hand positions. 
 
-- Playing the piano is shown below:
+- Playing the piano:
+![Screenshot 2023-12-18 185313](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/cb93812d-9d59-4cbb-93cf-d6da717aa819)
 
---put picture screenshitrand link to videi
-[![IMAGE ALT TEXT HERE](https://img.youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDxE/0.jpg)](https://youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDx)
-
-https://youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDx
-
-https://github.com/Osestic/MiDOK_Co-Pilot_App/assets/42704298/2c5c2102-06ed-4d42-a558-b406b375f8a7
-
-https://youtu.be/7QV7U6zG5p0?si=95N4K1tDJaiDvBDx
-
-
-
-The Android application demo:
-
-
-https://github.com/Osestic/MiDOK_Co-Pilot_App/assets/42704298/7a2a0f87-c2e4-47b8-ab71-47bd31dc3c11
-
-
-https://github.com/Osestic/MiDOK_Co-Pilot_App/assets/42704298/3a2e5abe-4d6a-426d-8236-740e5c12ba74
-
-
-The web application demo:
-
-
-https://github.com/Osestic/MiDOK_Co-Pilot_App/assets/42704298/207550aa-21fe-4337-9fe4-13ffdcf4254c
-
-
-
+- Playing rock, paper and scissors:
   
-### Note
-- The AI Python API response time is not as quick as the actual ChatGPT application
-- It can take 10 - 60 seconds or more depending on the length/number of tokens of text sent to it
-- Not all the buttons are functional, the demo shows those that work
+![Screenshot 2023-12-18 185523](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/480adf55-c514-419c-873d-874e3a992269)
 
-  
+
+Video demo:
+[Demo](https://youtu.be/vg_HYsMw0Hg) 
+
+
+ 
 ## Authors
-This project was a result of the collaborative effort of the following groups of persons and myself:
-1. Oriekaose Chukwuyem Agholor - AI Python and UI/UX Developer [https://github.com/Osestic]
-2. Eyimofe Oladipo - iOS Swift Application Developer 
-3. Sarwar Nazrul - Android Kotlin Application Developer [http://github.com/Sarwarnazrul242]
-4. Emmanuel Etukudoh - Website Developer [https://github.com/emmanuel-et]
-5. Lukas Nilsen - Project, Customer and Market Researcher
-6. Bilal Kachir - Graphics and Logo Designer
-
+This project was a result of the collaborative effort of:
+1. Oriekaose Chukwuyem Agholor - Aspiring Robotics and Mechatronic Systems Engineer [https://github.com/Osestic]
+2. Evan Varga - Aspiring Electrical Engineer [https://github.com/EvanVarga]
 
 ## License
 This project is licensed under the “Commons Clause” License Condition v1.0. See ```LICENSE``` for more information.
@@ -108,9 +80,8 @@ This project is licensed under the “Commons Clause” License Condition v1.0. 
 
 
 ## Recommendations
-- Ensure you have a strong internet connection to improve the AI API connectivity
-- Utilise a faster and more powerful server for quicker AI API response time (You may need to pay for this)
-- Adapt the same layout and UI/UX to both the iOS and Android Application
-- Allow other persons to use the apps and give feedback
-- Act on the feedback accordingly
+- In the ```main.c``` , spend less time in the interrupts
+- Include your own gestures and actions
+- Allow other persons to view the project
+- Act on their feedback accordingly
 
