@@ -62,9 +62,23 @@ The following are pictures of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface in 
 - Playing rock, paper and scissors:
 <img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/20376c5a-8b07-44d5-b52b-3d32332adce1">
 
-Video demo:
-[Demo](https://youtu.be/vg_HYsMw0Hg) 
+[Video Demo](https://youtu.be/vg_HYsMw0Hg) 
 
+To capture new positions and sequences for the WidowX_Arm_HIWONDER_Bionic_Hand-Interface, do the following:
+1. Run the ```PyPose.py```.
+2. Run the ```pypose.ino```.
+3. Select the maximum resolution, 4096.
+4. Select a serial port from the config tab.
+5. Select the pose editor from the tools and create a new position.
+6. Select capture position.
+7. Set can be used to set the position.
+8. Select the tools tab and select sequence editor.
+9. Load in the positions you have captured and choose the duration you wish for each one.
+10. Export the positions and sequences you have created by clicking the export to AVR fromt the tools tab.
+11. You can save the application as a file you can always load.
+
+The image of how the pose capturing looks like is shown below:
+![Screenshot 2023-12-17 200032](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/a565100c-5b07-490d-9a5a-44bf54016e5d)
 
  
 ## Authors
