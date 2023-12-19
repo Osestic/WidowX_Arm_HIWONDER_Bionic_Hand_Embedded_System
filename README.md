@@ -57,7 +57,6 @@ The following are pictures of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface in 
 <img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/cb93812d-9d59-4cbb-93cf-d6da717aa819">
 
 - Playing rock, paper and scissors:
-  
 <img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/20376c5a-8b07-44d5-b52b-3d32332adce1">
 
 Video demo:
