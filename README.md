@@ -1,4 +1,3 @@
-
 # WidowX_Arm_HIWONDER_Bionic_Hand-Interface </h2>
 
 
