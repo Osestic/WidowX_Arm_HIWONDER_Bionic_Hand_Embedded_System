@@ -1,4 +1,5 @@
-![Screenshot 2023-12-18 185523](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/20376c5a-8b07-44d5-b52b-3d32332adce1)![Screenshot 2023-12-18 185523](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/89ec5a66-1764-478e-8740-a4f1652601f4)# WidowX_Arm_HIWONDER_Bionic_Hand-Interface </h2>
+
+# WidowX_Arm_HIWONDER_Bionic_Hand-Interface </h2>
 
 
 <img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/25f37eee-65a8-4e1e-a7c2-306f3ad84e96" width="300"/>
@@ -54,11 +55,12 @@ To run the current capabilities of the WidowX_Arm_HIWONDER_Bionic_Hand-Interface
 The following are pictures of the  WidowX_Arm_HIWONDER_Bionic_Hand-Interface in performing different hand positions. 
 
 - Playing the piano:
-![Screenshot 2023-12-18 185313](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/cb93812d-9d59-4cbb-93cf-d6da717aa819)
+<img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/cb93812d-9d59-4cbb-93cf-d6da717aa819" width="300">
 
 - Playing rock, paper and scissors:
   
-![Screenshot 2023-12-18 185523](https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/480adf55-c514-419c-873d-874e3a992269)
+<img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/20376c5a-8b07-44d5-b52b-3d32332adce1">
+<img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/89ec5a66-1764-478e-8740-a4f1652601f4" width="300">
 
 
 Video demo:
