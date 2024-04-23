@@ -4,7 +4,7 @@
 <img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/25f37eee-65a8-4e1e-a7c2-306f3ad84e96" width="300"/>
 
 ## Description
-For our Introduction to Microcontrollers course final project, [Evan Varga](https://www.linkedin.com/in/evan-varga-2a21aa221/) and I embarked on integrating a WidowX Robotic Arm controlled with an Arbotix - M Arduino, a robocontroller, with a HIWONDER Bionic hand controlled by a Tiva C Series TM4C123G microcontroller to perform various hand and arm gestures, play a game and play an instrument. 
+For our Introduction to Microcontrollers course final project, [Evan Varga](https://www.linkedin.com/in/evan-varga-2a21aa221/) and I embarked on integrating a WidowX Robotic Arm controlled with an Arbotix - M Arduino, a robocontroller, with a HIWONDER Bionic hand controlled by a Tiva C Series TM4C123G microcontroller, creating an embedded system, to perform various hand and arm gestures, play a game and play an instrument. 
 
 Through the microcontroller's Universal Asynchronous Receiver-Transmitter (UART) module, commands can be sent to the microcontroller to cause the fingers of the HIWONDER bionic hand to move into certain positions through pulse-width modulations. These commands also cause digital signals to be sent through parallel communication to the Arbotix -M robotcontroller. These signals make the WidowX arm move into certain position or perform sequences of positions. All these working together lead to creative gestures and actions being performed.
 
