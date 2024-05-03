@@ -1,4 +1,4 @@
-# WidowX_Arm_HIWONDER_Bionic_Hand-Interface </h2>
+# WidowX_Arm_HIWONDER_Bionic_Hand_Embedded System </h2>
 
 
 <img src="https://github.com/Osestic/WidowX_Arm_HIWONDER_Bionic_Hand-Interface/assets/42704298/25f37eee-65a8-4e1e-a7c2-306f3ad84e96" width="300"/>
