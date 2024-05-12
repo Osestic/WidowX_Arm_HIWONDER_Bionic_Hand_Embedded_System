@@ -19,7 +19,7 @@ Arduino.
 1.	The codes to be mentioned below contain the specific pins configured for steps 3 and 4 above. Your own pins can be configured as well.
 2.	Employ good cable/wire management to ensure proper connections and to easily debug issues which often stem from disconnections. Breadboards are quite useful, and one was used for this project.
 3.	When the motors fault out due to exceeding the limits of their possible positions or as safety measures to protect users, they flash red and are disabled. Unplug the power cord and plug back in to rest them. 
-4.	Unplug the power cord to relax the motors or run ‘’’PyPose.py’’’ , to be mentioned below.
+4.	Unplug the power cord to relax the motors or run ```PyPose.py``` , to be mentioned below.
 
 ## Programmed With
 
