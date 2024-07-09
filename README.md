@@ -92,8 +92,7 @@ This project is licensed under the “Commons Clause” License Condition v1.0. 
 
 
 ## How to Contribute
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 
 ## Recommendations
 - In the ```main.c``` , spend less time in the interrupts
